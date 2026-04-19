@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Fachri Ramdhan",
+      "email": "fachri@demo.com",
+      "password": "demo123",
+      "phone": "081775117906",
+      "avatar": "FR"
+    },
+    {
+      "id": "2",
+      "name": "Budi Santoso",
+      "email": "budi@demo.com",
+      "password": "demo123",
+      "phone": "08987654321",
+      "avatar": "BS"
+    }
+  ],
+  "packages": [
+    {
+      "id": "1",
+      "name": "Starter 2GB",
+      "provider": "Telkomsel",
+      "quota": 2,
+      "validity": 7,
+      "price": 15000,
+      "speed": "4G",
+      "description": "Paket hemat untuk kebutuhan harian ringan, cocok untuk WhatsApp dan browsing.",
+      "features": [
+        "2GB Data",
+        "Berlaku 7 Hari",
+        "4G LTE",
+        "Tanpa Batas Waktu Akses"
+      ],
+      "popular": false
+    },
+    {
+      "id": "2",
+      "name": "Flash 5GB",
+      "provider": "Telkomsel",
+      "quota": 5,
+      "validity": 14,
+      "price": 28000,
+      "speed": "4G",
+      "description": "Cocok untuk streaming musik dan media sosial selama dua minggu penuh.",
+      "features": [
+        "5GB Data",
+        "Berlaku 14 Hari",
+        "4G LTE",
+        "Bonus 1GB Malam"
+      ],
+      "popular": true
+    },
+    {
+      "id": "3",
+      "name": "Combo 10GB",
+      "provider": "Telkomsel",
+      "quota": 10,
+      "validity": 30,
+      "price": 55000,
+      "speed": "5G",
+      "description": "Paket bulanan terpopuler. Cukup untuk semua aktivitas digital harian Anda.",
+      "features": [
+        "10GB Data",
+        "Berlaku 30 Hari",
+        "5G Ready",
+        "Bonus 5GB Weekend"
+      ],
+      "popular": true
+    },
+    {
+      "id": "4",
+      "name": "Unlimited Lite",
+      "provider": "Telkomsel",
+      "quota": 30,
+      "validity": 30,
+      "price": 89000,
+      "speed": "5G",
+      "description": "Kuota unlimited dengan FUP 30GB kecepatan penuh, lalu throttle 1Mbps.",
+      "features": [
+        "Unlimited",
+        "FUP 30GB",
+        "Berlaku 30 Hari",
+        "5G Ready"
+      ],
+      "popular": false
+    },
+    {
+      "id": "5",
+      "name": "Basic 3GB",
+      "provider": "Indosat",
+      "quota": 3,
+      "validity": 7,
+      "price": 18000,
+      "speed": "4G",
+      "description": "Paket Indosat terjangkau untuk penggunaan harian sedang.",
+      "features": [
+        "3GB Data",
+        "Berlaku 7 Hari",
+        "4G LTE",
+        "Gratis Nelpon 10 Menit"
+      ],
+      "popular": false
+    },
+    {
+      "id": "6",
+      "name": "Freedom U 8GB",
+      "provider": "Indosat",
+      "quota": 8,
+      "validity": 30,
+      "price": 45000,
+      "speed": "4G",
+      "description": "Freedom tanpa batas dengan kuota melimpah untuk satu bulan penuh.",
+      "features": [
+        "8GB Data",
+        "Berlaku 30 Hari",
+        "4G LTE",
+        "Bonus IM3 TV"
+      ],
+      "popular": true
+    },
+    {
+      "id": "7",
+      "name": "Freedom Combo 20GB",
+      "provider": "Indosat",
+      "quota": 20,
+      "validity": 30,
+      "price": 75000,
+      "speed": "5G",
+      "description": "Pilihan terbaik untuk gamer dan content creator yang butuh koneksi stabil.",
+      "features": [
+        "20GB Data",
+        "Berlaku 30 Hari",
+        "5G Ready",
+        "Bonus Gaming 5GB"
+      ],
+      "popular": true
+    },
+    {
+      "id": "8",
+      "name": "Smartfren 4GB",
+      "provider": "Smartfren",
+      "quota": 4,
+      "validity": 30,
+      "price": 22000,
+      "speed": "4G",
+      "description": "Paket Smartfren termurah dengan kualitas jaringan stabil untuk pemakaian bulanan.",
+      "features": [
+        "4GB Data",
+        "Berlaku 30 Hari",
+        "4G VoLTE",
+        "Sinyal Stabil"
+      ],
+      "popular": false
+    },
+    {
+      "id": "9",
+      "name": "Unlimited Max",
+      "provider": "Smartfren",
+      "quota": 50,
+      "validity": 30,
+      "price": 99000,
+      "speed": "4G",
+      "description": "Unlimited max untuk yang butuh koneksi nonstop tanpa takut kehabisan kuota.",
+      "features": [
+        "Unlimited",
+        "FUP 50GB",
+        "Berlaku 30 Hari",
+        "VoLTE HD"
+      ],
+      "popular": false
+    },
+    {
+      "id": "10",
+      "name": "XL Xtra 6GB",
+      "provider": "XL",
+      "quota": 6,
+      "validity": 30,
+      "price": 35000,
+      "speed": "4G",
+      "description": "Paket XL dengan coverage terluas di Indonesia. Andal di mana saja.",
+      "features": [
+        "6GB Data",
+        "Berlaku 30 Hari",
+        "4G LTE",
+        "Hotspot Gratis"
+      ],
+      "popular": true
+    },
+    {
+      "id": "11",
+      "name": "XL Go 15GB",
+      "provider": "XL",
+      "quota": 15,
+      "validity": 30,
+      "price": 65000,
+      "speed": "5G",
+      "description": "Performa maksimal untuk remote work, video call, dan streaming tanpa hambatan.",
+      "features": [
+        "15GB Data",
+        "Berlaku 30 Hari",
+        "5G Ready",
+        "VPN Gratis 1 Bulan"
+      ],
+      "popular": true
+    },
+    {
+      "id": "12",
+      "name": "Tri Harian 1GB",
+      "provider": "Tri",
+      "quota": 1,
+      "validity": 1,
+      "price": 5000,
+      "speed": "4G",
+      "description": "Paket super hemat untuk satu hari. Ideal saat kuota darurat atau bepergian.",
+      "features": [
+        "1GB Data",
+        "Berlaku 1 Hari",
+        "4G LTE",
+        "Aktif 24 Jam"
+      ],
+      "popular": false
+    },
+    {
+      "id": "13",
+      "name": "Tri Always On 7GB",
+      "provider": "Tri",
+      "quota": 7,
+      "validity": 30,
+      "price": 40000,
+      "speed": "4G",
+      "description": "Always on 24 jam non-stop tanpa batasan waktu. Cocok untuk kerja dari rumah.",
+      "features": [
+        "7GB Data",
+        "Berlaku 30 Hari",
+        "4G LTE",
+        "Akses 24 Jam"
+      ],
+      "popular": false
+    },
+    {
+      "id": "14",
+      "name": "Axis Pro 12GB",
+      "provider": "Axis",
+      "quota": 12,
+      "validity": 30,
+      "price": 50000,
+      "speed": "4G",
+      "description": "Paket Axis terbaik dengan harga bersahabat dan kuota yang cukup untuk semua.",
+      "features": [
+        "12GB Data",
+        "Berlaku 30 Hari",
+        "4G LTE",
+        "Bonus Axisnet 2GB"
+      ],
+      "popular": false
+    },
+    {
+      "id": "15",
+      "name": "Telkomsel Orbit 25GB",
+      "provider": "Telkomsel",
+      "quota": 25,
+      "validity": 30,
+      "price": 110000,
+      "speed": "5G",
+      "description": "Paket premium keluarga. Cukup untuk banyak device sekaligus di satu rumah.",
+      "features": [
+        "25GB Data",
+        "Berlaku 30 Hari",
+        "5G Ready",
+        "Multi Device Support"
+      ],
+      "popular": false
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TRX00000001",
+      "userId": "1",
+      "packageId": "3",
+      "packageName": "Combo 10GB",
+      "provider": "Telkomsel",
+      "price": 55000,
+      "phone": "08123456789",
+      "status": "success",
+      "paymentMethod": "Transfer Bank",
+      "createdAt": "2025-01-10T08:30:00.000Z"
+    },
+    {
+      "id": "TRX00000002",
+      "userId": "1",
+      "packageId": "6",
+      "packageName": "Freedom U 8GB",
+      "provider": "Indosat",
+      "price": 45000,
+      "phone": "08123456789",
+      "status": "success",
+      "paymentMethod": "QRIS",
+      "createdAt": "2025-01-05T14:15:00.000Z"
+    },
+    {
+      "id": "TRX00000003",
+      "userId": "1",
+      "packageId": "2",
+      "packageName": "Flash 5GB",
+      "provider": "Telkomsel",
+      "price": 28000,
+      "phone": "08123456789",
+      "status": "success",
+      "paymentMethod": "Transfer Bank",
+      "createdAt": "2025-01-15T10:00:00.000Z"
+    }
+  ]
+}
