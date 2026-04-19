@@ -1,4 +1,4 @@
-# DataPackage Store
+# Fachri Cell
 
 Simulasi redesign website pembelian paket data internet — Frontend Developer Technical Test.
 
